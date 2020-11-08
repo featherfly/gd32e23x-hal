@@ -1,0 +1,5 @@
+{
+    "rust.features": [
+        "gd32e230"
+    ]
+}

@@ -27,6 +27,8 @@ cast = { version = "0.2.3", default-features = false }
 embedded-hal = { version = "0.2.4", features = ["unproven"] }
 gd32e23x-pac = {path = "../gd32-pac/gd32e23x-pac"}
 
+as-slice = "0.1.4"
+
 # [dependencies.stm32-usbd]
 # version = "0.5.0"
 # features = ["ram_access_1x16"]

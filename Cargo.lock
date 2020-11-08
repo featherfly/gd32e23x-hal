@@ -166,6 +166,7 @@ dependencies = [
 name = "gd32e23x-hal"
 version = "0.1.0"
 dependencies = [
+ "as-slice",
  "byteorder",
  "cast",
  "cobs",
